@@ -1,4 +1,4 @@
-# Recriação: replicando página web de login do Instagram
+# Recriando página de login do Instagram da web
 
 ##### Projeto básico utilizando HTML e CSS para treino.
 ##### Abaixo, é possível observar como ficou o resultado do projeto:
