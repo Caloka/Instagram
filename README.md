@@ -1,4 +1,4 @@
-# Recriando página de login do Instagram da web
+# Projeto DIO | Recriando página de login do Instagram da web
 
 ##### Projeto básico utilizando HTML e CSS para treino.
 ##### Abaixo, é possível observar como ficou o resultado do projeto:
